@@ -1,6 +1,6 @@
 # ShopIt
 
-## This is a demo front end for an E-commerce website. This project is created using a JavaScript framework called Vue js with Vuex and Router.
+This is a demo front end for an E-commerce website. This project is created using a JavaScript framework called Vue js with Vuex and Router.
 
 ## Project setup
 ```
